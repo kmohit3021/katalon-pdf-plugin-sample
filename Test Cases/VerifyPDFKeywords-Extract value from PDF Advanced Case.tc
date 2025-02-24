@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyPDFKeywords-Extract value from PDF Advanced Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab904527-5288-48fc-99b5-20b8c35e46de</testCaseGuid>
+</TestCaseEntity>
